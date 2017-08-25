@@ -1,0 +1,2 @@
+# Android-framework-native-service-
+Native Service是指运行在Framework的系统服务，是Application运行的基石，例如常用的ActivityManagerService、WindowManagerService、PackageManagerService等，本文的目的就是编写一个类似于上述的Service提供给别的进程使用。
